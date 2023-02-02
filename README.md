@@ -22,7 +22,7 @@ https://github.com/abhinavn-04/Expense-Tracker.git
 2. Change the working directory
 
 ```bash
-cd Chat-App
+cd Expense-Tracker
 ```
 
 3. Install dependencies
@@ -31,13 +31,7 @@ cd Chat-App
 npm install
 ```
 
-4. Create `.env` file in root folder and add your variables
-
-```bash
-projectID="Your_chat_engine_project_id"
-```
-
-5. Run the app
+4. Run the app
 
 ```bash
 npm start
